@@ -240,8 +240,7 @@
 言葉	ことば	kotoba	word, language
 子供	こども	kodomo	Child
 	この	kono	This
-今日は			
-				こんにちは	konnichiwa	hello, good day (daytime greeting id)
+今日は	こんにちは	konnichiwa	hello, good day (daytime greeting id)
 今晩は	こんばんは	konbanwa	good evening
 御飯	ごはん	gohan	cooked rice, meal
 	コピーする	kopiisuru	to copy
